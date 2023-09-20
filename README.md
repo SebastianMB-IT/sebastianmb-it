@@ -1,6 +1,3 @@
 ### Hi there 👋
 
-📫 Reach me on:
-
-- [Linkedin](https://www.linkedin.com/in/sebastianmariusbesel/)
-- [Twitter](https://twitter.com/sebastianmbesel)
+I decided keep this account frozen, check the [new one](https://github.com/msebastianb) for latest code.
